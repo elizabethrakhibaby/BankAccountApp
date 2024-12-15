@@ -1,8 +1,5 @@
 # BankAccountApp
 
-## Applicant Name
-Elizabeth Rakhi Baby
-
 ## Overview
 
 The **BankAccountApp** is a simple command-line banking application that allows users to perform basic banking operations such as depositing money, withdrawing money, and printing account statements. This application is designed to manage bank account functionalities in an easy-to-use interface.
